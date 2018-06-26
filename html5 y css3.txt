@@ -1,0 +1,5 @@
+1.- En el archivo index.html, detectar los errores en el código que no cumplan con la en la teoría de html5 vista en clases.
+  1. el menú esta sobre el titulo
+  2 el titulo esta fuera del header
+  3. Algunos artículos estaban mal escritos
+  4. la declaración del css estaban mal colocadas
